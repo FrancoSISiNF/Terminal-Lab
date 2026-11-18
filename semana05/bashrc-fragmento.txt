@@ -1,1 +1,12 @@
-c
+cat > bashrc - fragmento . txt <<’EOF ’
+ # Fragmento agregado a ~/. bashrc para respaldar - trabajo
+ export PATH =" $HOME / bin : $PATH "
+ EOF
+
+ mkdir -p ~/ bin
+ cp respaldar - trabajo . sh ~/ bin / respaldar - trabajo
+ chmod +x ~/ bin / respaldar - trabajo
+ grep - qxF ’export PATH =" $HOME / bin : $PATH "’ ~/. bashrc \
+ || echo ’export PATH =" $HOME / bin : $PATH "’ >> ~/. bashrc
+ source ~/. bashrc
+ which respaldar - trabajo # esperado : / home / USUARIO / bin / respaldar - trabajo
