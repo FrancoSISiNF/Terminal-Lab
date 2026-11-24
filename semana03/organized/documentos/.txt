@@ -1,0 +1,21 @@
+total 20
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc1.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc2.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc3.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc4.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc5.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc6.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc7.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc8.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc9.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 doc10.txt
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota1.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota2.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota3.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota4.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota5.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota6.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota7.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota8.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota9.md
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 nota10.md
