@@ -1,0 +1,11 @@
+total 10
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo1.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo2.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo3.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo4.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo5.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo6.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo7.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo8.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo9.sh
+-rwxr-xr-x 1 estudiante estudiante 0 feb 24 11:00 archivo10.sh
