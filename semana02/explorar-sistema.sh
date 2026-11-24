@@ -43,4 +43,4 @@ echo " $SEP "
  echo " $SEP "
  echo ""
 
-46 echo " Exploracion completada ."
+ echo " Exploracion completada ."
