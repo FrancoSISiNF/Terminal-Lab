@@ -1,0 +1,11 @@
+total 10
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto1.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto2.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto3.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto4.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto5.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto6.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto7.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto8.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto9.jpg
+-rw-r--r-- 1 estudiante estudiante 0 feb 24 11:00 foto10.jpg
